@@ -6,5 +6,5 @@
 - [Bharat-Sim](https://github.com/kaustubhdua/Bharat-Sim)
 - [RoadWatch-SIH2026](https://github.com/parthakurr/RoadWatch-SIH2026) 
 - [CodeVigil](https://github.com/itsvanijainn/CodeVigil) 
-- [DsProject](https://github.com/MaestroQubit/DsProject) 
-- [UnixProject](https://github.com/MaestroQubit/UnixProject) 
+- [rapidoeats](https://github.com/MaestroQubit/DsProject) 
+- [MiniGit](https://github.com/MaestroQubit/UnixProject) 
